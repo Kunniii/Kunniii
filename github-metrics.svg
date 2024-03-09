@@ -1114,7 +1114,7 @@ This fixes #2076</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.17m out of 89.3m repositories</span>
+                                    <span class="gh">ranked 5.17m out of 98.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1231,7 +1231,7 @@ This fixes #2076</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2024, 10:21:49 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2024, 11:20:11 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
