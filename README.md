@@ -10,6 +10,7 @@
 <table>
   
 | My Github Stats             | My most used languages |
+|:-:|:-:|
 [![Stats](https://acedev003-readme-stats.vercel.app/api?username=kunniii&show_icons=true)](https://github.com/kunniii)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=kunniii&layout=compact)](https://github.com/kunniii)
 </table>
   </div>
