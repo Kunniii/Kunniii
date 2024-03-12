@@ -3,7 +3,7 @@
 </p>
 <!-- <img src="" height=""> -->
 <h1 align="center">
-  🖐Hi, I'm Alex Cao, welcome to my git! <height="60">
+  🖐Hi, I'm Kunniii, welcome to my git! <height="60">
 </h1>
   
 <div align="center">  
