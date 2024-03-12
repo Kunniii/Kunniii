@@ -15,13 +15,13 @@
   </div>
 <h1 align="center">
   <a href="https://github.com/kunniii">
-    <img alig src="https://github-profile-trophy.vercel.app/?username=kunniii&theme=dracula"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kunniii&theme=dracula"/>
   </a>
 </h1>
 
 ###
 
-[![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=kunniii&theme=react-dark)](https://github.com/kunniii)
+[![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=kunniii)](https://github.com/kunniii)
 
 ![](https://hit.yhype.me/github/profile?user_id=57139436)
 
