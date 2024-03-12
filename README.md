@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.png" alt="header" width="100%"/>
-</p>
-<!-- <img src="" height=""> -->
 <h1 align="center">
   🖐Hi, I'm Kunniii, welcome to my git! <height="60">
 </h1>
