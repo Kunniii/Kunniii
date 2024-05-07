@@ -4,8 +4,8 @@
 <h1 align="center">
   🖐Hi, I'm Kunniii, welcome to my git! <height="60">
 </h1>
-  
-<div align="center" width="100%">  
+
+<div align="center" width="100%">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunniii)
 </div>
@@ -18,12 +18,6 @@
 
 </table>
 </div>
-
-<h1 align="center">
-  <a href="https://github.com/kunniii">
-    <img src="https://github-profile-trophy.vercel.app/?username=kunniii"/>
-  </a>
-</h1>
 
 ---
 
